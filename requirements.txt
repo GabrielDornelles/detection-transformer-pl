@@ -1,0 +1,7 @@
+cython
+submitit
+torch>=1.5.0
+torchvision>=0.6.0
+scipy
+pytorch-lightning==1.5.8
+rich
